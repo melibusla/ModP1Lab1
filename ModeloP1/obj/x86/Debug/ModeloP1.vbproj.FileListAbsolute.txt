@@ -1,0 +1,21 @@
+D:\Docente\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.exe
+D:\Docente\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.pdb
+D:\Docente\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.xml
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Resources.resources
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.vbproj.GenerateResource.Cache
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.exe
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.xml
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.pdb
+D:\Docente\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Form1.resources
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.exe
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.xml
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.pdb
+D:\Alumno\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.exe
+D:\Alumno\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.pdb
+D:\Alumno\Desktop\ModeloP1\ModeloP1\bin\Debug\ModeloP1.xml
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Form1.resources
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Resources.resources
+D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.vbproj.GenerateResource.Cache
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.exe
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.xml
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.pdb
