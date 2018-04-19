@@ -19,3 +19,9 @@ D:\Alumno\Desktop\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.vbproj.GenerateResour
 J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.exe
 J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.xml
 J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.pdb
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\bin\Debug\ModeloP1.exe
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\bin\Debug\ModeloP1.pdb
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\bin\Debug\ModeloP1.xml
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Form1.resources
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.Resources.resources
+J:\IES\1er Semestre\Laboratorio 1\ModeloP1\ModeloP1\obj\x86\Debug\ModeloP1.vbproj.GenerateResource.Cache

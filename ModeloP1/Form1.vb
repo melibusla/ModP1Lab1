@@ -60,10 +60,43 @@
                 Total = 400
             Case 3
                 Total = 220
-
-
-
+            Case 4
+                Total = 280
         End Select
+        Total = Total * Cantidad
 
+        If chkEntrega.Checked Then
+            Total = Total + 50
+        End If
+        If chkGarantia.Checked Then
+            Total = Total + 100
+        End If
+
+        If cmbFormaPago.SelectedIndex = 0 Then
+            Total = Total - (Total * 10 / 100)
+        Else
+            If cmbFormaPago.SelectedIndex = 2 Then
+                Total = Total + (Total * 5 / 100)
+            End If
+        End If
+
+        txtImporte.Text = Val(Total)
+
+    End Sub
+
+    Private Sub cmdLimpiar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdLimpiar.Click
+        txtNombreCliente.Text = ""
+        txtCantidad.Text = ""
+        txtImporte.Text = ""
+        cmbInsumo.SelectedIndex = 0
+        cmbFormaPago.SelectedIndex = 0
+        chkEntrega.Checked = False
+        chkGarantia.Checked = False
+        cmdVender.Enabled = False
+
+    End Sub
+
+    Private Sub cmdCerrar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmdCerrar.Click
+        Me.Close()
     End Sub
 End Class

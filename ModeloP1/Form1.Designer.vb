@@ -212,6 +212,7 @@ Partial Class Form1
         Me.Controls.Add(Me.txtNombreCliente)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Venta de Insumos"
         Me.grpCambiar.ResumeLayout(False)
         Me.grpCambiar.PerformLayout()
